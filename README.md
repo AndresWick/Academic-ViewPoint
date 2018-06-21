@@ -5,7 +5,7 @@ Punto de vista introductorio del sistema de gestión académico.
 # DiagramasBasicos
 ---
 
- ![GitHub](/PuntoDeVistaIntroductorio.PNG)
+ ![GitHub](/Introduction%20ViewPoint.jpg)
  
  ---
  
