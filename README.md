@@ -2,13 +2,20 @@
 Punto de vista introductorio del sistema de gestión académico.
 
 
-# DiagramasBasicos
+# Diagrama Introductorio
 ---
 
  ![GitHub](/Introduction%20ViewPoint.jpg)
+ ---
+ # Diagrama de organización
+ 
+  ![GitHub](/Model%20from%20the%20organization.jpg)
  
  ---
+ # Diagrama de cooperación
+ ![GitHub](/co-operation.bmp)
  
+ ---
   Autores:
 *  [GitHub](https://github.com/preguntaud)
     @preguntaud
