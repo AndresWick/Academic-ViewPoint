@@ -187,8 +187,9 @@
             <bendpoint startX="-168" startY="153" endX="192" endY="-15"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="38981fce-04a1-434f-943f-72b7bab18be5" source="3ba854ad-4c45-4ac6-aeba-9b1101256f35" target="81dd5a64-54c3-467a-a987-fd537cc28145" archimateRelationship="370929a7-c9d3-4384-a6dd-2461b43a543f">
-            <bendpoint startX="60" startY="237" endX="115" endY="-3"/>
-            <bendpoint startX="24" startY="237" endX="79" endY="-3"/>
+            <bendpoint startX="36" startY="129" endX="91" endY="-111"/>
+            <bendpoint startX="36" startY="165" endX="91" endY="-75"/>
+            <bendpoint startX="36" startY="249" endX="91" endY="9"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="a487712c-d046-4957-8f49-76d4376029ac" source="3ba854ad-4c45-4ac6-aeba-9b1101256f35" target="139a67c9-486b-4404-a74d-332d4dd2c823" archimateRelationship="7f39f800-a510-4383-987e-481af313327b"/>
         </child>
