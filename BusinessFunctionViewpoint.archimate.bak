@@ -95,7 +95,6 @@
     <element xsi:type="archimate:AssociationRelationship" name="cambiaInfoMatricula" id="06e332ef-dab2-4b43-b85c-a98c45148160" source="f2a69448-2b23-444e-9d59-b3442bb88d35" target="2e0d3fde-5243-4ac9-9acd-7b57ce4ca19e"/>
   </folder>
   <folder name="Views" id="05ecb3de-db84-4446-84eb-1ce9c7e07c31" type="diagrams">
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="de129c33-21f0-4cbb-8a4e-2d858aed1199"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Business Functions" id="16567643-2184-47ad-b73f-fe69b14968ed">
       <child xsi:type="archimate:DiagramObject" id="bdf06053-ba77-4794-b961-408788179646" fillColor="#ffff80" archimateElement="da653743-ece5-4cae-985f-9bca4c8473cc">
         <bounds x="204" y="-12" width="1129" height="610"/>
