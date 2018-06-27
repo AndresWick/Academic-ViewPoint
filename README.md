@@ -16,6 +16,10 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/co-operation.bmp)
  
  ---
+  # Diagrama de Función del Negocio
+ ![GitHub](/BusinessFunctions.png)
+ 
+ ---
   Autores:
 *  [GitHub](https://github.com/preguntaud)
     @preguntaud
