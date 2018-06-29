@@ -21,7 +21,7 @@ Punto de vista introductorio del sistema de gestión académico.
  
  ---
   # Diagrama de Proceso (Asignación de notas)
- ![GitHub](/Asignacion notas.JPG)
+ ![GitHub](/Asignacion%20notas.JPG)
  
  ---
  
