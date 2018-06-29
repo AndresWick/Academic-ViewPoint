@@ -20,6 +20,11 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/BusinessFunctions.png)
  
  ---
+  # Diagrama de Proceso (Asignación de notas)
+ ![GitHub](/Asignacion notas.JPG)
+ 
+ ---
+ 
   Autores:
 *  [GitHub](https://github.com/preguntaud)
     @preguntaud
