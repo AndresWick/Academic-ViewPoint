@@ -60,7 +60,7 @@ Punto de vista introductorio del sistema de gestión académico.
  
  ---
   ## Proyecto de grado
- ![GitHub](/Proyecto de grado.JPG)
+ ![GitHub](/Proyecto%20de%20grado.JPG)
  
  ---
   ## Monitorias
