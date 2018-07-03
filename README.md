@@ -59,6 +59,14 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/Vacacionales.JPG)
  
  ---
+  ## Proyecto de grado
+ ![GitHub](/Proyecto de grado.JPG)
+ 
+ ---
+  ## Monitorias
+ ![GitHub](/Monitorias.JPG)
+ 
+ ---
  
  
   Autores:
