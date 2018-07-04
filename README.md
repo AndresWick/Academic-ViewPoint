@@ -22,51 +22,7 @@ Punto de vista introductorio del sistema de gestión académico.
  ---
   # Diagramas de Procesos 
  
- ---
-  ## Asignación de notas
- ![GitHub](/Asignacion%20notas.JPG)
- 
- ---
-  ## Contratación docentes
- ![GitHub](/Contratacion%20docentes.JPG)
- 
- ---
-  ## Evaluación docente
- ![GitHub](/Evaluacion%20docente.JPG)
- 
- ---
-  ## Generación de horarios
- ![GitHub](/Generacion%20horarios.JPG)
- 
- ---
-  ## Inscripción de estudiantes
- ![GitHub](/Inscripcion%20estudiantes.JPG)
- 
- ---
-  ## Admisiones
- ![GitHub](/Gestion%20Admision.JPG)
- 
- ---
-  ## Inscripcion de materias
- ![GitHub](/Inscripcion%20materias.JPG)
- 
- ---
-  ## Pago docentes
- ![GitHub](/Pago%20docentes.JPG)
- 
- ---
-  ## Vacacionales
- ![GitHub](/Vacacionales.JPG)
- 
- ---
-  ## Proyecto de grado
- ![GitHub](/Proyecto%20de%20grado.JPG)
- 
- ---
-  ## Monitorias
- ![GitHub](/Monitorias.JPG)
- 
- ---
+
  
  
   Autores:
