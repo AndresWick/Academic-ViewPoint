@@ -69,7 +69,7 @@ Punto de vista introductorio del sistema de gestión académico.
   # Diagramas de Uso
   ---
   ## Asignación de notas
- ![GitHub](/Asignacion%20notas.JPG)
+ ![GitHub](/SerNotas.JPG)
  
  ---
   ## Contratación docentes
@@ -105,7 +105,7 @@ Punto de vista introductorio del sistema de gestión académico.
  
  ---
   ## Proyecto de grado
- ![GitHub](/Proyecto%20de%20grado.JPG)
+ ![GitHub](/SerProyecto.JPG)
  
  ---
   ## Monitorias
