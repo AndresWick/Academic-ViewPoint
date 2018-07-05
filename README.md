@@ -66,7 +66,7 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/Monitorias.JPG)
  
  ---
-  # Diagramas de Servicios
+  # Diagramas de Uso
   ---
   ## Asignación de notas
  ![GitHub](/Asignacion%20notas.JPG)
