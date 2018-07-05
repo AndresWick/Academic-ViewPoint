@@ -17,7 +17,7 @@ Punto de vista introductorio del sistema de gestión académico.
  
  ---
   # Diagrama de Función del Negocio
- ![GitHub](/BusinessFunctions.png)
+ ![GitHub](/Business%20Functions.png)
  
  ---
   # Diagramas de Procesos 
