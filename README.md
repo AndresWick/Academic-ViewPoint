@@ -66,6 +66,52 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/Monitorias.JPG)
  
  ---
+  # Diagramas de Servicios
+  ---
+  ## Asignación de notas
+ ![GitHub](/Asignacion%20notas.JPG)
+ 
+ ---
+  ## Contratación docentes
+ ![GitHub](/SerContratacion.JPG)
+ 
+ ---
+  ## Evaluación docente
+ ![GitHub](/SerEvaluacion.JPG)
+ 
+ ---
+  ## Generación de horarios
+ ![GitHub](/SerHorarios.JPG)
+ 
+ ---
+  ## Inscripción de estudiantes
+ ![GitHub](/SerInscripciones.JPG)
+ 
+ ---
+  ## Admisiones
+ ![GitHub](/SerAdmisiones.JPG)
+ 
+ ---
+  ## Inscripcion de materias
+ ![GitHub](/SerMaterias.JPG)
+ 
+ ---
+  ## Pago docentes
+ ![GitHub](/SerPagoDoc.JPG)
+ 
+ ---
+  ## Vacacionales
+ ![GitHub](/SerVacacionales.JPG)
+ 
+ ---
+  ## Proyecto de grado
+ ![GitHub](/Proyecto%20de%20grado.JPG)
+ 
+ ---
+  ## Monitorias
+ ![GitHub](/SerMonitorias.JPG)
+ 
+ ---
 
  
  
