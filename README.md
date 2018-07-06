@@ -66,6 +66,9 @@ Punto de vista introductorio del sistema de gestión académico.
  ![GitHub](/Monitorias.JPG)
  
  ---
+  # Diagrama de Cooperación de Aplicación 
+  ![GitHub](/VistaCooperacionDeAplicaciones.PNG)
+ ---
   # Diagramas de Uso
   ---
   ## Asignación de notas
@@ -111,7 +114,6 @@ Punto de vista introductorio del sistema de gestión académico.
   ## Monitorias
  ![GitHub](/SerMonitorias.JPG)
  
- ---
 
  
  
