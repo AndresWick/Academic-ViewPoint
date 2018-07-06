@@ -67,7 +67,7 @@ Punto de vista introductorio del sistema de gestión académico.
  
  ---
   # Diagrama de Cooperación de Aplicación 
-  ![GitHub](/VistaCooperacionDeAplicaciones.PNG)
+  ![GitHub](/VistaCooperacionDeAplicaciones.png)
  ---
   # Diagramas de Uso
   ---
