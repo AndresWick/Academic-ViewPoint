@@ -40,6 +40,8 @@ Cuando tratamos con problemas complejos es necesario tratar con el problema de m
 
 Serverless es un tipo de arquitectura donde los servidores (físicos o en la nube) dejan de existir para el desarrollador y en cambio el código corre en “ambientes de ejecución” que administran proveedores como Amazon, Google, IBM, etc. Cuando la funcion es invocada, ya sea por un request HTTP u otro evento, el ambiente de ejecución es iniciado, el código se ejecuta e inmediatamente el ambiente desaparece. Si la función es invocada mil veces, el proveedor se encarga de escalar y generar el número de ambientes necesarios para responder a las mil invocaciones.
 
+![GitHub](/serverless.png)
+
 Sin servidor también puede significar aplicaciones donde la lógica del lado del servidor todavía está escrita por el desarrollador de aplicaciones, pero a diferencia de las arquitecturas tradicionales, se ejecuta en contenedores de cómputo sin estado que son activados por eventos, efímeros (puede durar solo una invocación) y totalmente administrados por un tercero. Una forma de pensar en esto es "Funciones como servicio" o "FaaS". AWS Lambda es uno de los ejemplos más famosos. 
 
 Este servicio de Amazon nos permite crear unos endpoints para crear una API y basado en estos endpoints configurar qué código del que tenemos en AWS Lambda ejecutará cada uno de ellos. De esta forma no tenemos que tener ningún servidor donde resida nuestro código, sólo lo subimos y configuramos la API para que ejecute ese código. Gracias a las políticas de autoescalado que podemos configurar en Amazon podemos hacer servicios que siempre respondan independientemente de la carga que tengan. A día de hoy, los lenguajes que soporta AWS Lambda son Java, NodeJS y Python, pero seguro que irán llegando otros.
