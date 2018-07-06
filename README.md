@@ -46,6 +46,8 @@ Sin servidor también puede significar aplicaciones donde la lógica del lado de
 
 Este servicio de Amazon nos permite crear unos endpoints para crear una API y basado en estos endpoints configurar qué código del que tenemos en AWS Lambda ejecutará cada uno de ellos. De esta forma no tenemos que tener ningún servidor donde resida nuestro código, sólo lo subimos y configuramos la API para que ejecute ese código. Gracias a las políticas de autoescalado que podemos configurar en Amazon podemos hacer servicios que siempre respondan independientemente de la carga que tengan. A día de hoy, los lenguajes que soporta AWS Lambda son Java, NodeJS y Python, pero seguro que irán llegando otros.
 
+![GitHub](/Lambda.png)
+
 AWS Lambda escala automáticamente la aplicación ejecutando código en respuesta a cada disparador. El código se ejecuta en paralelo y procesa cada disparador por separado. Así logra escalar precisamente con el tamaño de la carga de trabajo.
 
 Es posible usar AWS Lambda para ejecutar código en respuesta a disparadores, como cambios en los datos, cambios en el estado del sistema o acciones de los usuarios. Lambda se puede activar directamente mediante servicios de AWS como S3, DynamoDB, Kinesis, SNS y CloudWatch, o se puede organizar en flujos de trabajo mediante AWS Step Functions. (AWS Step Functions facilita la coordinación de componentes de aplicaciones y microservicios distribuidos con flujos de trabajo visuales. ) Esto permite crear una variedad de sistemas de procesamiento de datos sin servidor en tiempo real.
