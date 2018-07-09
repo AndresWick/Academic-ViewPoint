@@ -169,7 +169,10 @@ Punto de vista introductorio del sistema de gestión académico.
   ## Monitorias
  ![GitHub](/SerMonitorias.JPG)
  
-
+---
+  # Diagrama de uso de infraestructura
+ ![GitHub](/Infraestructura.JPG)
+ 
  
  
   Autores:
